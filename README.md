@@ -3,7 +3,7 @@
  **Hypothesis**
 "More elderly men visit the superstore than elderly women."
 
-** Project Overview**
+Project Overview
 This data analysis project investigates shopping patterns among elderly customers (65+) at a major superstore. The study focuses on testing whether elderly men visit the superstore more frequently than elderly women, using data science techniques to derive actionable business insights.
 
 **Business Requirements & Context
