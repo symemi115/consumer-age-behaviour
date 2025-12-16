@@ -1,4 +1,4 @@
-**# Superstore Shopping Trends Analysis: Elderly Customers**
+**Superstore Shopping Trends Analysis: Elderly Customers**
 
  **Hypothesis**
 "More elderly men visit the superstore than elderly women."
