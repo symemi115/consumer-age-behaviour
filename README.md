@@ -1,6 +1,6 @@
-**Superstore Shopping Trends Analysis: Elderly Customers**
+# **Superstore Shopping Trends Analysis: Elderly Customers**
 
- **Hypothesis**
+ ## **Hypothesis**
 "More elderly men visit the superstore than elderly women."
 
 ## Project Overview
@@ -15,7 +15,7 @@ Understanding customer demographics is crucial for:
 4. Customer Experience: Tailoring services to dominant customer segments
 5. Revenue Optimization: Focusing on high-potential customer groups
 
-**Business Objectives:**
+#### **Business Objectives:**
 1.Identify the dominant gender among elderly shoppers
 2.Understand potential revenue implications
 3.Provide data-driven recommendations for marketing strategies
