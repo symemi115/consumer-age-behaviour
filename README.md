@@ -92,4 +92,8 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
   - Problem-solving and debugging support
 
 **Acknowledegments** 
-I'd like to personally thank Code Institute for providing this course, I have managed to piece together what I have learned and forumlated this Dataset Visualisation. I'd also like to thank my tutor Vasi, who has answered all of my millions of questions and my peers who have helped and motivated me to get through this.
+I extend my sincere gratitude to Code Institute for providing comprehensive data analytics education that formed the foundation of this project. The skills and methodologies learned throughout the course were instrumental in developing this data visualization analysis.
+
+Special thanks to my tutor, Vasi, for their patient guidance and invaluable support in addressing numerous technical questions and challenges encountered during development.
+
+I also wish to acknowledge my peers for their collaborative spirit, motivation, and shared insights that significantly contributed to the successful completion of this work.
