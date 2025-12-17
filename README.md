@@ -1,5 +1,8 @@
 # **Superstore Shopping Trends Analysis: Elderly Customers**
 
+
+**Data Description**: This project analyses shopping data containing customer age, gender, purchase history, and product preferences. The dataset has been cleaned and filtered to focus specifically on elderly customers (60+ years), with gender distribution as the key variable for hypothesis testing.
+
  ## **Hypothesis**
 "More elderly men visit the superstore than elderly women."
 
@@ -24,7 +27,7 @@ Understanding customer demographics is crucial for:
 **Dataset:**
 - Source: Kaggle Customer Shopping Trends Dataset
 - Contains customer demographics and purchase information
- Method
+###Method
 1. Data Cleaning: Removed duplicates, checked for missing values
 2. Feature Engineering: Created 'Is_Elderly' column (Age ≥ 60)
 4. Analysis: Compared gender distribution among elderly customers
@@ -47,6 +50,7 @@ Key Variables Used**
 
 **Conclusion**
 Primary Finding: Elderly Men represent the majority of elderly shoppers
+
 
 
 **Files**
