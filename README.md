@@ -91,6 +91,14 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
   - Documentation and reporting templates
   - Problem-solving and debugging support
 
+
+**Credits & Content used:** 
+
+The content of this project, represent the understanding provided by Various products given by Code Institute.
+Some works in the readme file have been inspired from Previous Students at Code Institute.
+Some issues that I had faced has been sorted through guidence from my wonderful tutor Vasi and brilliant class members from the Data Analyst community at Code Institute.
+
+
 **Acknowledegments** 
 I extend my sincere gratitude to Code Institute for providing comprehensive data analytics education that formed the foundation of this project. The skills and methodologies learned throughout the course were instrumental in developing this data visualization analysis.
 
