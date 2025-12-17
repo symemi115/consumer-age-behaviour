@@ -65,7 +65,7 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
 - NumPy (numerical operations)
 
 
-### #### AI Integration
+###  AI Integration
 #### AI tools were used to:
 Assisted in directing clean data to a new pathway.
 Support the organisation and clarity of my notebook and README.
