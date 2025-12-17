@@ -99,6 +99,7 @@ Some issues that I had faced has been sorted through guidence from my wonderful 
 
 
 **Acknowledegments** 
+
 I extend my sincere gratitude to Code Institute for providing comprehensive data analytics education that formed the foundation of this project. The skills and methodologies learned throughout the course were instrumental in developing this data visualization analysis.
 
 Special thanks to my tutor, Vasi, for their patient guidance and invaluable support in addressing numerous technical questions and challenges encountered during development.
