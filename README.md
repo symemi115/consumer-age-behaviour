@@ -85,7 +85,7 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
 - Plotly (interactive visualizations)
 - NumPy (numerical operations)
 
-### **AI Collaboration**: This project was developed with assistance from AI tools for:
+ **AI Collaboration**: This project was developed with assistance from AI tools for:
   - Code structure and optimization suggestions
   - Data visualization techniques and implementations
   - Documentation and reporting templates
