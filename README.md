@@ -6,10 +6,8 @@
  ## **Hypothesis**
 "More elderly men visit the superstore than elderly women."
 
-## Project Overview
-This data analysis project investigates shopping patterns among elderly customers (65+) at a major superstore. The study focuses on testing whether elderly men visit the superstore more frequently than elderly women, using data science techniques to derive actionable business insights.
 
-**Business Requirements & Context
+**Business Requirements & Context**
 Business Problem:**
 Understanding customer demographics is crucial for:
 1. Targeted Marketing: Efficient allocation of marketing resources
@@ -24,7 +22,25 @@ Understanding customer demographics is crucial for:
 3.Provide data-driven recommendations for marketing strategies
 4.Support evidence-based decision making for senior-focused initiatives
 
-**Dataset:**
+### ** Project Plan:** 
+**1. Planning Phase**
+- Define: Hypothesis, objectives, success criteria
+- Acquire: Kaggle shopping trends dataset
+- Setup: Python environment with required libraries
+
+**2. Data Processing Phase**
+- Extract: Load raw CSV data
+- Transform: Clean, filter, create 'Is_Elderly' column
+- Load: Save cleaned data to structured folders
+**3. Analysis Phase**
+- Statistical: Test hypothesis with gender counts
+- Visualization: Create bar, pie, area, and KDE plots
+- Exploration: Analyze age distributions and patterns
+**4. Delivery Phase**
+- Documentation: Create README and code comments
+- Presentation: Prepare visualizations and report
+- Submission: Finalize and deliver assessment
+### **Dataset:**
 - Source: Kaggle Customer Shopping Trends Dataset
 - Contains customer demographics and purchase information
 ###Method
