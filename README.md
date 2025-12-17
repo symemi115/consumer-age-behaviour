@@ -59,16 +59,6 @@ Understanding customer demographics is crucial for:
 4. Category Product category purchased
 5. Location: Store location not specified
 
- **Key Findings**
-- Total elderly customers: 3112
-- Elderly men:  542
-- Elderly women: 246
-- Ratio (Men:Women): 2.20
-
-**Conclusion**
-Primary Finding: Elderly Men represent the majority of elderly shoppers
-
-
 
 **Files**
 - `shopping_analysis.ipynb`: Main analysis code
@@ -91,6 +81,15 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
   - Documentation and reporting templates
   - Problem-solving and debugging support
 
+
+ **Key Findings**
+- Total elderly customers: 3112
+- Elderly men:  542
+- Elderly women: 246
+- Ratio (Men:Women): 2.20
+
+**Conclusion**
+The analysis provides definitive evidence that elderly male customers (542) significantly outnumber elderly female customers (246) at the superstore. This 68.8% vs 31.2% distribution validates the initial hypothesis and establishes a clear demographic dominance that should inform strategic business decisions moving forward.
 
 **Credits & Content used:** 
 
