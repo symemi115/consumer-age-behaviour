@@ -7,8 +7,8 @@
 "More elderly men visit the superstore than elderly women."
 
 
-**Business Requirements & Context**
-Business Problem:**
+### **Business Requirements & Context**
+Business Problem:
 Understanding customer demographics is crucial for:
 1. Targeted Marketing: Efficient allocation of marketing resources
 2. Inventory Management: Stocking age and gender-appropriate products
