@@ -90,3 +90,6 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
   - Data visualization techniques and implementations
   - Documentation and reporting templates
   - Problem-solving and debugging support
+
+**Acknowledegments** 
+I'd like to personally thank Code Institute for providing this course, I have managed to piece together what I have learned and forumlated this Dataset Visualisation. I'd also like to thank my tutor Vasi, who has answered all of my millions of questions and my peers who have helped and motivated me to get through this.
