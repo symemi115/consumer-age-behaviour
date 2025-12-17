@@ -85,9 +85,8 @@ Primary Finding: Elderly Men represent the majority of elderly shoppers
 - Plotly (interactive visualizations)
 - NumPy (numerical operations)
 
-
-###  AI Integration
-#### AI tools were used to:
-Assisted in directing clean data to a new pathway.
-Support the organisation and clarity of my notebook and README.
-All AI-assisted outputs were overlooked and impliemented after being reviwed.
+### **AI Collaboration**: This project was developed with assistance from AI tools for:
+  - Code structure and optimization suggestions
+  - Data visualization techniques and implementations
+  - Documentation and reporting templates
+  - Problem-solving and debugging support
