@@ -21,11 +21,11 @@ Understanding customer demographics is crucial for:
 
 2.Understand potential revenue implications
 
-3.Provide data-driven recommendations for marketing strategies
+3.Provide data driven recommendations for marketing strategies
 
 4.Support evidence-based decision making for senior-focused initiatives
 
-### ** Project Plan:** 
+### Project Planning:
 **1. Planning Phase**
 - Define: Hypothesis, objectives, success criteria
 - Acquire: Kaggle shopping trends dataset
@@ -46,20 +46,18 @@ Understanding customer demographics is crucial for:
 ### **Dataset:**
 - Source: Kaggle Customer Shopping Trends Dataset
 - Contains customer demographics and purchase information
-###Method
+### Method:
 1. Data Cleaning: Removed duplicates, checked for missing values
 2. Feature Engineering: Created 'Is_Elderly' column (Age ≥ 60)
 4. Analysis: Compared gender distribution among elderly customers
 5. Visualization: Used Matplotlib and Plotly for clear presentations
-**
-Key Variables Used**
+
+**Key Variables Used**
 1. Age: Customer age (used to identify elderly >60)
 2. Gender: Male/Female classification
 3. Purchase Amount (USD): Transaction value
 4. Category Product category purchased
 5. Location: Store location not specified
-
-
 
  **Key Findings**
 - Total elderly customers: 3112
