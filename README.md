@@ -18,8 +18,11 @@ Understanding customer demographics is crucial for:
 
 #### **Business Objectives:**
 1.Identify the dominant gender among elderly shoppers
+
 2.Understand potential revenue implications
+
 3.Provide data-driven recommendations for marketing strategies
+
 4.Support evidence-based decision making for senior-focused initiatives
 
 ### ** Project Plan:** 
