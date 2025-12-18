@@ -93,6 +93,9 @@ Understanding customer demographics is crucial for:
 
 **Conclusion**
 The analysis provides definitive evidence that elderly male customers (542) significantly outnumber elderly female customers (246) at the superstore. This 68.8% vs 31.2% distribution validates the initial hypothesis and establishes a clear demographic dominance that should inform strategic business decisions moving forward.
+The data confirms that most elderly customers (65+) are between 65-69 years old. This age concentration provides valuable targeting information for business planning and customer engagement strategies.
+
+
 
 **Credits & Content used:** 
 
