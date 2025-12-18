@@ -3,7 +3,7 @@
 
 **Data Description**: This project analyses shopping data containing customer age, gender, purchase history, and product preferences. The dataset has been cleaned and filtered to focus specifically on elderly customers (60+ years), with gender distribution as the key variable for hypothesis testing.
 
- ## **Hypothesis1** 
+ ## **Hypothesis**
 "More elderly men visit the superstore than elderly women."
 
 
