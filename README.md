@@ -37,7 +37,7 @@ Understanding customer demographics is crucial for:
 - Load: Save cleaned data to structured folders
 **3. Analysis Phase**
 - Statistical: Test hypothesis with gender counts
-- Visualization: Create bar, pie, area, and KDE plots
+- Visualization: Create bar, pie, area,KDE,heatmap and animated plot charts
 - Exploration: Analyze age distributions and patterns
 **4. Delivery Phase**
 - Documentation: Create README and code comments
