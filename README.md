@@ -6,6 +6,8 @@
  ## **Hypothesis**
 "More elderly men visit the superstore than elderly women."
 
+**Hypothesis 2:**
+" Elderly Customers Are Mostly in the 65-69 Age Range"
 
 
 ### **Business Requirements & Context**
