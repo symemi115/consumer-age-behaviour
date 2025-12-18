@@ -72,7 +72,7 @@ Understanding customer demographics is crucial for:
 **Technologies Used**
 - Pandas (data manipulation)
 - Matplotlib (static visualizations)
-- Plotly (interactive visualizations) #please not Github does not support this, please download and run through VS Code.
+- Plotly (interactive visualizations) #please note Github does not support this, please download and run through VS Code.
 - NumPy (numerical operations)
 
  **AI Collaboration**: This project was developed with assistance from AI tools for:
